@@ -1,5 +1,4 @@
 import SearchContact from "./contact/SearchContact";
-
 import { BACKGROUND, PURPLE } from "../helpers/colors";
 
 const Navbar = () => {
